@@ -91,3 +91,102 @@
    ```bash
    git clone https://github.com/balaji676-glitch/CodeAlpha_Language_Translator.git
    cd CodeAlpha_Language_Translator
+
+🎯 How to Use
+  Enter text in the input area (max 5000 characters)
+  
+  Select languages:
+  
+  Source language (or choose "Auto Detect")
+  
+  Target language for translation
+  
+  Click "TRANSLATE" to get instant translation
+  
+  Listen to translation:
+  
+  Click ▶️ to hear the translated text
+  
+  Use ⏸️ to pause, ⏹️ to stop
+  
+  "Test Voice" button to check language support
+  
+  View history below for recent translations
+  
+  Click history voice button 🔊 to replay any translation
+
+📁 Project Structure
+  CodeAlpha_Language_Translator/
+│
+├── app.py                 # Main Flask application
+├── README.md              # Project documentation
+├── requirements.txt       # Python dependencies
+├── .gitignore             # Git ignore rules
+│
+└── (Optional folders)
+    ├── static/            # CSS, JS, images (if separated)
+    └── templates/         # HTML templates (if separated)
+
+
+🧠 Key Learning Outcomes
+  ✅ Integrating third-party APIs (Google Translate, gTTS)
+  
+  ✅ Building fallback mechanisms for better user experience
+  
+  ✅ Creating responsive, visually appealing UIs with CSS
+  
+  ✅ Implementing rate limiting for API protection
+  
+  ✅ Handling multilingual text and special characters
+  
+  ✅ Working with browser's Web Speech API
+  
+  ✅ Error handling and user feedback systems
+  
+  ✅ Version control with Git/GitHub
+
+🚦 API Rate Limits
+  Translation: 5 requests per minute per IP
+  
+  Voice: Cloud fallback uses gTTS (no rate limits)
+  
+  Input validation prevents abuse
+
+🤝 Contributing
+  Contributions, issues, and feature requests are welcome!
+  
+  Fork the project
+  
+  Create your feature branch (git checkout -b feature/AmazingFeature)
+  
+  Commit your changes (git commit -m 'Add some AmazingFeature')
+  
+  Push to the branch (git push origin feature/AmazingFeature)
+  
+  Open a Pull Request
+
+📝 License
+  This project is licensed under the MIT License - see the LICENSE file for details.
+
+👨‍💻 Author
+  Balaji
+  Artificial Intelligence Intern at CodeAlpha
+  🔗 GitHub
+  🔗 LinkedIn (Add your LinkedIn)
+
+🙏 Acknowledgments
+  CodeAlpha for the internship opportunity and guidance
+  
+  Google Translate API for translation services
+  
+  gTTS for cloud-based voice synthesis
+  
+  Flask community for excellent documentation
+
+📊 Repository Stats
+  https://img.shields.io/github/last-commit/balaji676-glitch/CodeAlpha_Language_Translator
+  https://img.shields.io/github/issues/balaji676-glitch/CodeAlpha_Language_Translator
+  https://img.shields.io/github/stars/balaji676-glitch/CodeAlpha_Language_Translator?style=social
+  
+  <div align="center"> <h3>⭐ Star this repository if you find it useful! ⭐</h3> <p>Built with ❤️ during CodeAlpha Internship</p> </div>
+  #CodeAlpha #Python #Flask #AI #LanguageTranslation #VoiceTechnology #MachineLearning #WebDevelopment #TamilNLP
