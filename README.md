@@ -14,7 +14,7 @@
 
 **Prime Translate** is an AI-powered language translation tool developed during my internship at **CodeAlpha** (Task 1). This web application breaks language barriers by providing instant translations across 12+ languages with a stunning cyberpunk-inspired interface and cloud-based voice synthesis.
 
-🔗 **Live Demo**: *[Add your deployment link here if available]*  
+
 📦 **Repository**: [github.com/balaji676-glitch/CodeAlpha_Language_Translator](https://github.com/balaji676-glitch/CodeAlpha_Language_Translator)
 
 ---
