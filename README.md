@@ -171,9 +171,7 @@
 👨‍💻 Author
   Balaji
   Artificial Intelligence Intern at CodeAlpha
-  🔗 GitHub
-  🔗 LinkedIn (Add your LinkedIn)
-
+  
 🙏 Acknowledgments
   CodeAlpha for the internship opportunity and guidance
   
