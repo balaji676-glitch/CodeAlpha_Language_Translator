@@ -6,7 +6,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/balaji676-glitch/CodeAlpha_Language_Translator)
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400/0a0a0f/00f3ff?text=Prime+Translate+Demo" alt="Project Demo Screenshot">
+ 
   <p><i>✨ Cyberpunk-themed AI Translation with Voice Support ✨</i></p>
 </div>
 
